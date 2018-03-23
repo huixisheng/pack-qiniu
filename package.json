@@ -1,0 +1,27 @@
+{
+  "name": "pack-qiniu",
+  "version": "1.0.0",
+  "description": "七牛图片上传的二次封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huixisheng/pack-qiniu.git"
+  },
+  "keywords": [
+    "qiniu",
+    "upload"
+  ],
+  "author": "huixisheng@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huixisheng/pack-qiniu/issues"
+  },
+  "devDependencies": {
+    "qiniu": "^7.1.1",
+    "x-config-deploy": "^0.0.3"
+  },
+  "homepage": "https://github.com/huixisheng/pack-qiniu#readme"
+}
