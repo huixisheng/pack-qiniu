@@ -1,6 +1,6 @@
 {
   "name": "pack-qiniu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "七牛图片上传的二次封装",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/huixisheng/pack-qiniu/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "qiniu": "^7.1.1",
     "x-config-deploy": "^0.0.3"
   },
